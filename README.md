@@ -136,13 +136,7 @@ Currently exploring:
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitjaiswal9334&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
